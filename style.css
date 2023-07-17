@@ -169,7 +169,7 @@ header .navbar ul li a:hover{
     color:var(--yellow);
 }
 
-.home p {
+.home p{
     font-size:2rem;
     color:#eee;
     padding: 1rem 0;
@@ -257,13 +257,7 @@ header .navbar ul li a:hover{
     padding-top: 1.5rem;
 }
 
-.education .box-container .box p {
-    font-size: 1.4rem;
-    color:#eee;
-    padding: 1rem 0;
-}
-
-.education .box-container .box .pre a {
+.education .box-container .box p{
     font-size: 1.4rem;
     color:#eee;
     padding: 1rem 0;

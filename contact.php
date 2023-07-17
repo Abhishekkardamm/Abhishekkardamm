@@ -13,7 +13,7 @@ if( empty($name) || empty($Email) || empty($message) )
 
 else
 {
-    mail("ak9404028@gmail.com" , "Message from Website" , $message , "From: $name < $email>");
+    mail("abhishakkardamm@gmail.com" , "Message from Website" , $message , "From: $name < $email>");
 
     echo "<script type = 'text/javascript'> alert('Your message sent successfully');
     window.history.log(-1);
